@@ -7,13 +7,19 @@ Powercord Install (untested): `git clone https://github.com/Enluka/ZeroTwo-Frost
 - - -
 
 Server chat + User popout
-![Server Chat](https://i.imgur.com/Gr8JJAv.jpg)
+![Server Chat](https://cdn.discordapp.com/attachments/706650227238764574/804086084912676864/1.png)
 
-User modal
-![User Modal](https://i.imgur.com/xnUQ1Ek.jpg)
+User modal User Modal with USRBG
+![User Modal with USRBG](https://cdn.discordapp.com/attachments/706650227238764574/804086084483940403/2.png)
+
+User modal User Modal without USRBG
+![User Modal without USRBG](https://cdn.discordapp.com/attachments/706650227238764574/804086086741262396/3.png)
 
 User Settings
-![User Settings](https://i.imgur.com/qfMW8HI.jpg)
+![User Settings](https://cdn.discordapp.com/attachments/706650227238764574/804086091157995560/4.png)
+
+Home Button  
+![Home Button](https://cdn.discordapp.com/attachments/240114069170814986/804078638932164628/LIUK6By.gif)
 
 ## License
 

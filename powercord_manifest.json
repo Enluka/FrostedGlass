@@ -1,8 +1,8 @@
 {
-    "name": "Frosted Glass",
+    "name": "Zero Two (Frosted Glass)",
     "description": "Display your picture of choice with adjustable blur and brightness. Dark theme is required.",
-    "version": "1.0.0",
-    "author": "Gibbu#1211",
+    "version": "0.0.2",
+    "author": "P1NK.ENLUKA#1854",
     "theme": "FrostedGlass.theme.css",
     "consent": ["ext_listing"],
     "license": "MIT"

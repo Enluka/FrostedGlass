@@ -1,9 +1,9 @@
-## Frosted Glass
-Display your picture of choice with adjustable blur and brightness. Dark theme is required.
+## Zero Two (Frosted Glass)
+Zero Two theme based on [Frosted Glass](https://github.com/DiscordStyles/FrostedGlass). Dark theme is required.
 
 - - -
-BetterDiscord Download: [https://betterdiscord.net/ghdl?id=3359](https://betterdiscord.net/ghdl?id=3359)  
-Powercord Install: `git clone https://github.com/DiscordStyles/FrostedGlass`
+BetterDiscord Download: [https://enluka.github.io/ZeroTwo-FrostedGlass/ZeroTwo-FrostedGlass.theme.css](https://enluka.github.io/ZeroTwo-FrostedGlass/ZeroTwo-FrostedGlass.theme.css)  
+Powercord Install (untested): `git clone https://github.com/Enluka/ZeroTwo-FrostedGlass`
 - - -
 
 Server chat + User popout
@@ -17,4 +17,4 @@ User Settings
 
 ## License
 
-See the [LICENSE](https://github.com/DiscordStyles/FrostedGlass/blob/master/LICENSE.md) file for license rights and limitations (MIT).
+See the [LICENSE](https://github.com/Enluka/ZeroTwo-FrostedGlass/blob/master/LICENSE.md) file for license rights and limitations (MIT).

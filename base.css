@@ -514,7 +514,7 @@
 }
 
 #app-mount .header-2o-2hj {
-  background: transparent;
+  background: var(--white);
   box-shadow: none;
 }
 #app-mount .animatedContainer-1pJv5C {

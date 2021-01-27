@@ -13,7 +13,7 @@
 
 /* User Background */
 @import url('https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css');
-@import url('https://discord-custom-covers.github.io/usrbg/snippets/modals.css');
+/*@import url('https://discord-custom-covers.github.io/usrbg/snippets/modals.css');
 
 /* BlackBox tags */
 @import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
@@ -47,8 +47,8 @@
   --popout-modal-brightness: 0.5; /* Brightness for popouts and modals | 0 - 1 (decimals allowed) | DEFAULT: 0.75 */
 
   /* Gradient variables */
-  --gradient-primary: 103,58,183; /* DEFAULT: 103,58,183 */
-  --gradient-secondary: 63,81,181; /* DEFAULT: 63,81,181 */
+  --gradient-primary: 202,60,76; /* DEFAULT: 103,58,183 */
+  --gradient-secondary: 71,47,61; /* DEFAULT: 63,81,181 */
   --gradient-direction: 320deg; /* DEFAULT: 320deg */
 
   /* Tint variables */
@@ -58,7 +58,7 @@
   /* Other variables */
   --window-padding: 0px; /* Spacing around the Discord window | DEFAULT: 20px */
   --window-roundness: 0px; /* Roundness of Discord | DEFAULT: 10px */
-  --scrollbar-colour: rgba(255,0,163,0.9); /* DEFAULT: rgba(255,255,255,0.05) */
+  --scrollbar-colour: rgba(202,60,76,0.5); /* DEFAULT: rgba(255,255,255,0.05) */
   --link-colour: #ff0099; /* DEFAULT: #00b0f4 */
   --show-gift-gif-buttons: none; /* Show buttons: block | Hide buttons: none | DEFAULT: none */
 
@@ -70,4 +70,46 @@
 
   /* Do not touch */
   --update-notice-1: none;
+  
+ 
+}
+
+/*
+USRBG Profile Modals by Tropix126.
+===========================================
+If your theme heavily modifies the
+positioning for these modals, I
+suggest either messing around with
+the below variables, or writing your
+own custom code using the database.
+
+You are allowed to use this in your theme
+without prior permission from me or any
+other contributors to USRBG.
+*/
+@import url('https://discord-custom-covers.github.io/usrbg/dist/usrbg.css');
+:root {
+  --usrbg-modal-x-offset:-34px; /*Distance from the avatar container to the edge of the modal (x)*/
+  --usrbg-modal-y-offset:-20px; /*Distance from the avatar container to the edge of the modal (y)*/
+  --usrbg-modal-width:600px; /*Maximum width of modal*/
+  --usrbg-modal-height:600px; /*Maximum height of modal*/
+}
+.header-QKLPzZ .wrapper-3t9DeA::after {
+  content:'';
+  position:absolute;
+  top:var(--usrbg-modal-x-offset);
+  left:var(--usrbg-modal-y-offset);
+  width:var(--usrbg-modal-width);
+  height: var(--usrbg-modal-height);
+  opacity: 1;
+  pointer-events:none;
+  background: var(--user-background) center/cover no-repeat;
+  -webkit-mask: linear-gradient(black, transparent 100%);
+}
+
+.headerInfo-30uryT,
+.tabBarItem-1b8RUP,
+.activity-1ythUs {
+  z-index:1;
+  position:relative;
 }

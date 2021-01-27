@@ -9,6 +9,8 @@
  * @website https://github.com/Enluka/FrostedGlass
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Karla');
+
 @import url("https://enluka.github.io/ZeroTwo-FrostedGlass/base.css");
 
 /* BlackBox tags */
@@ -25,7 +27,7 @@
   --background-image-position: center; /* Position of background image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
 
   /* Popout & Modal variables */
-  --popout-modal-image: var(--background-image); /* Background image for popouts and modals | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --popout-modal-image: url('https://i.imgur.com/HaLYMC3.gif'); /* Background image for popouts and modals | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --popout-modal-blur: 5px; /* Blur intensity of --popout-modal-image | Must end in px | DEFAULT: 5px */
   --popout-modal-size: cover; /* Size of the popout/modal image | DEFAUT: cover | OPTIONS: cover, contain */
   --popout-modal-position: center; /* Position of popout/modal image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
@@ -62,7 +64,7 @@
     Visit https://fonts.google.com and select one to your liking.
     Now just follow this tutorial: https://imgur.com/a/CNbw7xC
   */
-  --font: 'Whitney';
+  --font: 'Karla', sans-serif;;
 
   /* Do not touch */
   --update-notice-1: none;

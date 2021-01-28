@@ -31,7 +31,8 @@
   --popout-modal-blur: 5px; /* Blur intensity of --popout-modal-image | Must end in px | DEFAULT: 5px */
   --popout-modal-size: cover; /* Size of the popout/modal image | DEFAUT: cover | OPTIONS: cover, contain */
   --popout-modal-position: center; /* Position of popout/modal image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
-
+  --popout-modal-attachment: center; /*attachment of popout/modal image */
+  
   /* Home image variables */
   --home-button-image: url('https://cdn.discordapp.com/attachments/240114069170814986/804078638932164628/LIUK6By.gif'); /* Home button image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --home-button-size: cover; /* Size of the home button image | DEFAUT: cover */

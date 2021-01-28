@@ -1130,7 +1130,7 @@
 #app-mount .uploadModal-2ifh8j:before {
   content: "";
   position: absolute;
-  background: var(--popout-modal-image) center/cover fixed;
+  background: var(--popout-modal-image) center/cover center;
   top: 0;
   left: 0;
   width: 100%;

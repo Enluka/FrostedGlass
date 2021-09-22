@@ -2,7 +2,7 @@
 Zero Two theme based on [Frosted Glass](https://github.com/DiscordStyles/FrostedGlass). Dark theme is required.
 
 - - -
-BetterDiscord Download: [https://enluka.github.io/ZeroTwo-FrostedGlass/ZeroTwo-FrostedGlass.theme.css](https://enluka.github.io/ZeroTwo-FrostedGlass/ZeroTwo-FrostedGlass.theme.css)  
+BetterDiscord Download: [https://p1nk-gang.github.io/ZeroTwo-FrostedGlass/ZeroTwo-FrostedGlass.theme.css](https://enluka.github.io/ZeroTwo-FrostedGlass/ZeroTwo-FrostedGlass.theme.css)  
 Powercord Install (untested): `git clone https://github.com/Enluka/ZeroTwo-FrostedGlass`
 - - -
 
